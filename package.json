@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "API construida para o desafio de full-stack",
   "main": "index.js",
-  "repository": "https://github.com/ArielBetti/API-Challenge",
+  "repository": "https://github.com/ArielBetti/API-Challenge-Geospatial",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
