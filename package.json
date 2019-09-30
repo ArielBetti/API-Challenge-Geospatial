@@ -1,0 +1,21 @@
+{
+  "name": "easycarros-api",
+  "version": "1.0.0",
+  "description": "API construida para o desafio de full-stack",
+  "main": "index.js",
+  "repository": "https://github.com/ArielBetti/API-Challenge",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Ariel Betti",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eslint": "^6.4.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.1",
+    "node-restful": "^0.2.6",
+    "nodemon": "^1.19.2"
+  }
+}
